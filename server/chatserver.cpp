@@ -1,7 +1,5 @@
 /**
  * Author: Ish Mehta
- * GTID: 903531579
- * GT Email: imehta34@gatech.edu
  */
 
 // #include <udt.h>
